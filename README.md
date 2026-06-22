@@ -34,6 +34,4 @@ The MDEC Standard defines three tiers of data health:
 
 🛠 The Implementation
 
-The Data Legacy Engine (DLE) is the reference implementation of the MDEC standard—a software layer that acts as an "Active Librarian," crawling, scoring, and healing data repositories in real-time.
-
-Est. 2026 | Mars City Media, Entertainment and Technology Company | Carbon & Silicon Collaborators
+Titaness Space Systems llc is the reference implementation of the MDEC standard—a software layer, Est. in 2026 by C.Olds for the Titaness Space Systems.
